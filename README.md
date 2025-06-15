@@ -93,7 +93,9 @@ To serve the built frontend with the backend:
   npm run build
   node server/index.js
   ```
+## OUTPUT SCREENSHOT
 
+![Image](https://github.com/user-attachments/assets/2093d791-9853-4340-bc13-99ff176a6a8b)
 ---
 
 
