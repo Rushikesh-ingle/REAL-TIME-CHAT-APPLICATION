@@ -17,7 +17,8 @@
 
 # 🟢 Real-Time Chat Application
 
-A full-stack real-time chat app built with **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **Node.js** using **WebSockets** for live messaging.
+Real-Time Chat Application is a full-stack messaging app that enables users to communicate instantly through WebSocket-powered connections. It features a modern, responsive UI built with React and Tailwind CSS, and a lightweight Node.js server for handling real-time communication. Designed with performance and simplicity in mind, this app showcases the power of WebSockets and Vite for building lightning-fast and interactive user experiences.
+
 
 ---
 
